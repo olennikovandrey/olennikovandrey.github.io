@@ -234,7 +234,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 var experienceDataEN = [{
   years: "Oct 2022 - Feb 2023",
-  title: "Traenee (ITechArt)",
+  title: "Trainee (ITechArt)",
   description: "Full-stack developer (MERN)"
 }, {
   years: "May 2020 - till now",
